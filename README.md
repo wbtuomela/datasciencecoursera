@@ -1,4 +1,4 @@
-datasciencecoursera
+Data Science Track from Coursera
 ===================
 
-Data Science Track from Coursera
+repo for Brandon Tuomela
